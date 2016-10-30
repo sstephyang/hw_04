@@ -104,11 +104,11 @@ div:not(.row) {
     color: white;
     background: #ff3b00;
     border-radius: 50%;
-    height: 50px;
-    width: 50px;
-    font-size: 20px;
+    height: 30px;
+    width: 30px;
+    font-size: 15px;
     text-align: center;
-    line-height: 50px;
+    line-height: 30px;
     position: fixed;
     margin-bottom: 10px;
     margin-right: 10px;
